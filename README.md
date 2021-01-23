@@ -1,3 +1,0 @@
-# sezam
-ćwiczenia
-test
