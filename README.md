@@ -1,1 +1,2 @@
 # sezam
+ćwiczenia
